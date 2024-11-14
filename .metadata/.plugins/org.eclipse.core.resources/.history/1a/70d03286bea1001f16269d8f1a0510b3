@@ -1,0 +1,5 @@
+package com.pages.automation.java.testng;
+
+public class WebTablePage {
+
+}

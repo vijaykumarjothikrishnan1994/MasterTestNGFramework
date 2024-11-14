@@ -1,0 +1,24 @@
+package JavaProgrammingInternalTCS;
+
+import org.testng.annotations.Test;
+
+public class Reverse {
+
+	@Test
+	public void Reverse() {
+		
+		
+		String Str="Vijay";
+		char[] cvalue=Str.toCharArray();
+		
+		System.out.println("This is the total length of C value : "+cvalue.length);
+		for(int i=0;i<cvalue.length;i++)
+		{
+			if(Str.charAt(i)==Str.charAt(i))
+			{
+				System.out.println("Same");
+			}
+		}
+		
+	}
+}

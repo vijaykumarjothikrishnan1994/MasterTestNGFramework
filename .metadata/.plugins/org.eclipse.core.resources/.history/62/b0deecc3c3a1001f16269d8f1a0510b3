@@ -1,0 +1,13 @@
+package com.base.automation.java.testng;
+
+import java.io.FileInputStream;
+
+public class ExcelReadData {
+	
+	public void methodReadDataFromExcel()
+	{
+		FileInputStream filepinput=new FileInputStream("");
+		
+	}
+
+}
